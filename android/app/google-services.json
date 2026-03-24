@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874118815337",
+    "project_id": "booking-tic-2026",
+    "storage_bucket": "booking-tic-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874118815337:android:066f0d899e34d14cd48cf8",
+        "android_client_info": {
+          "package_name": "com.example.bookin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzgIyO4nq_SnnnMvqu-GSHzolfyq7tXYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874118815337:android:235bc175a1e7416cd48cf8",
+        "android_client_info": {
+          "package_name": "com.example.booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzgIyO4nq_SnnnMvqu-GSHzolfyq7tXYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
